@@ -1,0 +1,24 @@
+2022-03-20 17:44:09 INFO  TestCase_004:15 - Initializing the Properties files....
+2022-03-20 17:44:15 INFO  TestCase_004:18 - Opened the Browser:-  chrome
+2022-03-20 17:44:22 INFO  TestCase_004:21 - Navigating to the Url:- https://www.amazon.in
+2022-03-20 17:44:52 INFO  TestCase_004:24 - Selected the Boos option using the locator:- null
+2022-03-20 17:44:53 INFO  TestCase_004:27 - Entering the text Harry Potter using the locator:- null
+2022-03-20 17:44:56 INFO  TestCase_004:30 - Clicked on the Element by using:- null
+2022-03-20 17:47:06 INFO  TestCase_004:15 - Initializing the Properties files....
+2022-03-20 17:47:08 INFO  TestCase_004:18 - Opened the Browser:-  chrome
+2022-03-20 17:47:13 INFO  TestCase_004:21 - Navigating to the Url:- https://www.amazon.in
+2022-03-20 17:47:44 INFO  TestCase_004:24 - Selected the Boos option using the locator:- searchDropdownBox
+2022-03-20 17:47:44 INFO  TestCase_004:27 - Entering the text Harry Potter using the locator:- field-keywords
+2022-03-20 17:47:47 INFO  TestCase_004:30 - Clicked on the Element by using:- //*[@id = "nav-search-submit-button"]
+2022-03-20 17:51:56 INFO  TestCase_004:15 - Initializing the Properties files....
+2022-03-20 17:51:59 INFO  TestCase_004:18 - Opened the Browser:-  chrome
+2022-03-20 17:52:02 INFO  TestCase_004:21 - Navigating to the Url:- https://www.amazon.in
+2022-03-20 17:52:33 INFO  TestCase_004:24 - Selected the Boos option using the locator:- searchDropdownBox
+2022-03-20 17:52:33 INFO  TestCase_004:27 - Entering the text Harry Potter using the locator:- field-keywords
+2022-03-20 17:52:35 INFO  TestCase_004:30 - Clicked on the Element by using:- //*[@id = "nav-search-submit-button"]
+2022-03-20 17:53:46 INFO  TestCase_004:15 - Initializing the Properties files....
+2022-03-20 17:53:50 INFO  TestCase_004:18 - Opened the Browser:-  chrome
+2022-03-20 17:53:54 INFO  TestCase_004:21 - Navigating to the Url:- https://www.amazon.in
+2022-03-20 17:54:25 INFO  TestCase_004:24 - Selected the Books option using the locator:- searchDropdownBox
+2022-03-20 17:54:25 INFO  TestCase_004:27 - Entering the text Harry Potter using the locator:- field-keywords
+2022-03-20 17:54:28 INFO  TestCase_004:30 - Clicked on the Element by using:- //*[@id = "nav-search-submit-button"]
